@@ -19,17 +19,17 @@
         }
     ],
     "require": {
-        "php": "^7.4",
+        "php": "^8.0",
         "ext-json": "*",
-        "guzzlehttp/guzzle": "^6.3",
-        "spatie/laravel-webhook-server": "^1.9"
+        "guzzlehttp/guzzle": "^7.2",
+        "spatie/laravel-webhook-server": "^3.4"
     },
     "require-dev": {
-        "friendsofphp/php-cs-fixer": "^2.16",
-        "orchestra/testbench": "^5.0",
+        "friendsofphp/php-cs-fixer": "^3.21",
+        "orchestra/testbench": "^8.5",
         "phpunit/phpunit": "^9.3",
-        "psalm/plugin-laravel": "^1.2",
-        "vimeo/psalm": "^3.11"
+        "psalm/plugin-laravel": "^2.8",
+        "vimeo/psalm": "^5.11"
     },
     "autoload": {
         "psr-4": {
